@@ -1,0 +1,28 @@
+{
+    "id": "sr6d",
+    "title": "Shadowrun Sixth World",
+    "description": "A Shadowrun Sixth World system for Foundry VTT",
+    "authors": [
+        {
+            "name": "Susanne \"Schattenhexe\" Lamprecht",
+            "email": "worldbuilding.witch@gmail.com"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "esmodules": [
+        "modules/sr6e.js"
+    ],
+    "styles": [
+        "styles/sr6e.css"
+    ],
+    "packs": [],
+    "languages": [],
+    "gridDistance": 1.5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "physical",
+    "initiative": "1d6"
+}
