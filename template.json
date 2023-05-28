@@ -1,6 +1,12 @@
 {
     "Actor": {
-
+        "types": [
+            "Player",
+            "NSC",
+            "Critter",
+            "Spirit",
+            "Vehicle"
+        ]
     },
     "Item": {
         "types": [
@@ -23,7 +29,8 @@
             "echo",
             "martialartstyle",
             "martialarttech",
-            "metamagic"
+            "metamagic",
+            "matrixgear"
         ]
     }
 }
