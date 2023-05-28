@@ -1,0 +1,29 @@
+{
+    "Actor": {
+
+    },
+    "Item": {
+        "types": [
+            "firearm",
+            "melee",
+            "armor",
+            "quality",
+            "negquality",
+            "gear",
+            "ammunition",
+            "lifestyle",
+            "sin",
+            "contact",
+            "spell",
+            "adeptpower",
+            "critterpower",
+            "ritual",
+            "focus",
+            "complexform",
+            "echo",
+            "martialartstyle",
+            "martialarttech",
+            "metamagic"
+        ]
+    }
+}
