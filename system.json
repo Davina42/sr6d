@@ -24,5 +24,6 @@
     "gridDistance": 1.5,
     "gridUnits": "m",
     "primaryTokenAttribute": "physical",
-    "initiative": "1d6"
+    "initiative": "1d6",
+    "manifest": "https://github.com/Davina42/sr6d/blob/309937ce62d08e386d3357c04a7f2f437da05792/system.json"
 }
